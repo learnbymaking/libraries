@@ -20,6 +20,7 @@
 #ifndef firebase_h
 #define firebase_h
 
+#include <ESP8266WiFi.h>
 #include "WString.h"
 #include <Arduino.h>
 #include <memory>
